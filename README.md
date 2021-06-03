@@ -9,6 +9,8 @@ newdata.csv: Dữ liệu chứa 50 936 cặp (lat, lon) trên phạm vi toàn qu
 out.csv: Dữ liệu dự đoán lượng phân bố NO2 ứng với 50 936 cặp (lat, lon) trên phạm vi toàn quốc. 
 
 ## Installation
-This project can be run in **Google Colab** notebooks with free GPU:
+You can run this project yourself in **Google Colab** notebooks with free GPU:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDVu1IyuNDWy6nsfNH36TK6izxyRFvr0?usp=sharing)
+
+To see how we extract the dataset.csv, click [here](extract_features.ipynb)
 
