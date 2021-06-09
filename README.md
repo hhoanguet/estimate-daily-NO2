@@ -10,7 +10,7 @@ out.csv: Dữ liệu dự đoán lượng phân bố NO2 ứng với 50 936 cặ
 
 ## Installation
 You can run this project yourself in **Google Colab** notebooks with free GPU:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VDVu1IyuNDWy6nsfNH36TK6izxyRFvr0?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eQj_3BWunj335IZT7Iydlh6_u3ueY1EZ?usp=sharing)
 
 To see how we extract the dataset.csv, click [here](extract_features.ipynb)
 
